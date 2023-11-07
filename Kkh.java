@@ -3,5 +3,7 @@ public class Kkh {
         System.out.println("ㅁㄴㅇㄻㄴㅇ");
         System.out.println("ㅁㄴㅇㄻㄴㅇ");
         System.out.println("ㅁㄴㅇㄻㄴㅇ");
+        System.out.println("ㅁㄴㅇㄻㄴㅇ");
+        System.out.println("ㅁㄴㅇㄻㄴㅇ");
     }
 }
